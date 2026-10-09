@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+
+# Local datasets
+gesture_dataset/
+prepared_gesture_dataset/
+combined_gesture_dataset/
+balanced_gesture_dataset/
+
+# Local environment files
+.env
